@@ -8,15 +8,15 @@ Welcome to the Theory of Computation (TOC) Handwritten Notes repository! Here yo
 
 **_Units_**
 
-- Unit 1: Introduction to Automata Theory:
-  > [Notes](https://github.com/adisharma-git/TOC-HANDWRITTEN-NOTES/tree/main/UNIT-I)
-- Unit 2: Regular Expressions:
+- **Unit 1: Introduction to Automata Theory:** ***[Notes](https://github.com/adisharma-git/TOC-HANDWRITTEN-NOTES/tree/main/UNIT-I)***
+  ![UNIT 1 SYLLABUS](UNIT-I/SYLLABUS.png)
+- **Unit 2: Regular Expressions:**
   > Notes will be uploaded soon.
-- Unit 3: Context-free languages and pushdown automata:
+- **Unit 3: Context-free languages and pushdown automata:**
   > Notes will be uploaded soon.
-- Unit 4: Context-sensitive languages:
+- **Unit 4: Context-sensitive languages:**
   > Notes will be uploaded soon.
-- Unit 5: Types of Turing machine:
+- **Unit 5: Types of Turing machine:**
   > Notes will be uploaded soon.
 
 ## Usage
