@@ -27,12 +27,12 @@ Feel free to browse through the notes for each unit by clicking on the respectiv
 
 Contributions to improve the quality and coverage of these notes are welcome! If you have additional content, corrections, or enhancements, please follow these steps:
 
-> Fork the repository.
-> Create a new branch 'git checkout -b feature/add-notes'.
-> Make your changes.
-> Commit your changes 'git commit -am 'Add new notes'.'
-> Push to the branch 'git push origin feature/add-notes'.
-> Create a new Pull Request.
+- Fork the repository.
+- Create a new branch `git checkout -b feature/add-notes`.
+- Make your changes.
+- Commit your changes `git commit -am 'Add new notes'`.
+- Push to the branch `git push origin feature/add-notes`.
+- Create a new Pull Request.
 
 ## Credits
 
@@ -42,4 +42,4 @@ If you use these notes in your projects, studies, or presentations, please provi
 
 ## Contact
 
-For any questions, doubts, feedback, or collaboration opportunities, please feel free to reach out to me via email at your-tech.adishar@gmail.com
+For any questions, doubts, feedback, or collaboration opportunities, please feel free to reach out to me via email at : <br>tech.adishar@gmail.com
